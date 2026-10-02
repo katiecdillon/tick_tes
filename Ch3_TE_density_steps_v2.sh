@@ -184,3 +184,6 @@ awk '{
 ## STEP 7 - karyoploteR
 ##########
 # Visualize and take measure of each assembly's data using these R scripts:
+https://github.com/katiecdillon/tick_tes/blob/main/karyoploteR_devon_20260928.r
+https://github.com/katiecdillon/tick_tes/blob/main/karyoploteR_iric_20260928.r
+https://github.com/katiecdillon/tick_tes/blob/main/karyoploteR_iscap_20260928.r
